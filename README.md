@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VincentFourcroy
 - 👀 I’m interested in learning to build apps, especially on the back-end side.
-- 🌱 I’m currently learning NestJS, Nuxt, SASS, MySQL.
+- 🌱 I’m currently learning Nest.js, Nuxt.js, SASS, MySQL.
 - 💞️ I’m looking to collaborate on beginner projects using said frameworks above!
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
